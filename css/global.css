@@ -1,0 +1,32 @@
+body {
+    font-family: 'Proxima Nova';
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+
+.header-links {
+    padding: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    padding: 5px 100px;
+
+  }
+
+div {
+    padding-top: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.divider-line {
+    border-bottom: 1px solid black;
+    padding-top: 10px;
+}

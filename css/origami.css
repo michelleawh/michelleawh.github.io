@@ -1,0 +1,17 @@
+.origami-pic-row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+  }
+  
+.origami-pic-row {
+    flex: 25%;
+
+  }
+  
+.origami-pic-column img{
+    margin-top: 8px;
+    vertical-align: middle;
+    height: 300px;
+    padding: 5px;
+  }
